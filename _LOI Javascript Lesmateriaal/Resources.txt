@@ -1,0 +1,3 @@
+https://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners
+https://developer.mozilla.org/en-US/docs/Tools/Debugger
+https://developer.mozilla.org/nl/docs/Web/JavaScript

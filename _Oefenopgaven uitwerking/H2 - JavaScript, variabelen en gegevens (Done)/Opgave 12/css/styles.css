@@ -1,0 +1,50 @@
+body {
+	background-color: #2471BF;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+.wrapper {
+	background-color: white;
+	margin: 0 auto;
+	width: 40%;
+	height: 365px;
+	box-shadow: 7px 7px 5px 1px rgba(50, 50, 50, 0.75);
+	border-radius: 10px;
+	padding: 15px;
+}
+
+
+header {
+	height: 100px;
+	width: 100%;
+	border-bottom: 1px solid #2471BF;
+	margin-bottom: 15px;
+}
+
+h1.kopjerechts {
+	font-size: 1.4em;
+	float: right;
+	padding-right: 10px;
+}
+
+input {
+	font-size: 11px;
+	width: 150px;
+	height: 10px;
+}
+
+input:focus {
+	border: 1px solid #2471BF;
+}
+
+button {
+	width: 75px;
+	border: 1px solid #2471BF;
+	font-weight: bold;
+	border-radius: 3px;
+	box-shadow: 1px 1px 1px 1px rgba(50, 50, 50, 0.75);
+}
+
+button:hover {
+	background-color: #2471BF
+}
